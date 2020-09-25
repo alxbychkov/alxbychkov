@@ -1,5 +1,8 @@
 ### Hi there 👋
-https://img.shields.io/static/v1?label=<LABEL>yellow<MESSAGE>yellow<COLOR>
+### Languages and Tools:
+![Firebase](https://img.shields.io/badge/-Firebase-090909?style=for-the-badge&logo=firebase&logoColor=F8C52C)
+![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
+![Sql](https://img.shields.io/badge/-Sql-090909?style=for-the-badge&logo=mysql&logoColor=00648B)
 <!--
 **alxbychkov/alxbychkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
