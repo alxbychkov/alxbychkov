@@ -6,7 +6,6 @@
 ![Nuxt](https://img.shields.io/badge/-NUXT-090909?style=for-the-badge&logo=nuxtdotjs&logoColor=00DC82)
 ![React](https://img.shields.io/badge/-REACT-090909?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![NodeJS](https://img.shields.io/badge/-NODEJS-090909?style=for-the-badge&logo=nodedotjs&logoColor=339933)
-![Express](https://img.shields.io/badge/-EXPRESS-090909?style=for-the-badge&logo=express&logoColor=000000)
 ![Php](https://img.shields.io/badge/-PHP-090909?style=for-the-badge&logo=php&logoColor=6495ED)
 ![Html](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5&logoColor=F16529)
 ![Css](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3&logoColor=2965F1)
