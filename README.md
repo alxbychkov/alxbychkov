@@ -1,13 +1,15 @@
 #### Hi there, my name is Alexander 👋
 #### I'am developer, looking to collaborate on open source project.
 ### Languages and Tools:
+![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
 ![Vue](https://img.shields.io/badge/-VUE-090909?style=for-the-badge&logo=Vue.js&logoColor=4FC08D)
 ![Nuxt](https://img.shields.io/badge/-NUXT-090909?style=for-the-badge&logo=nuxtdotjs&logoColor=00DC82)
 ![React](https://img.shields.io/badge/-REACT-090909?style=for-the-badge&logo=react&logoColor=61DAFB)
+![NodeJS](https://img.shields.io/badge/-NODEJS-090909?style=for-the-badge&logo=nodedotjs&logoColor=339933)
+![Express](https://img.shields.io/badge/-EXPRESS-090909?style=for-the-badge&logo=express&logoColor=000000)
+![Php](https://img.shields.io/badge/-PHP-090909?style=for-the-badge&logo=php&logoColor=6495ED)
 ![Html](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5&logoColor=F16529)
 ![Css](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3&logoColor=2965F1)
-![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
-![Php](https://img.shields.io/badge/-PHP-090909?style=for-the-badge&logo=php&logoColor=6495ED)
 ![Sql](https://img.shields.io/badge/-Sql-090909?style=for-the-badge&logo=mysql&logoColor=FFFFFF)
 ![Firebase](https://img.shields.io/badge/-Firebase-090909?style=for-the-badge&logo=firebase&logoColor=F8C52C)
 ![Git](https://img.shields.io/badge/-GIT-090909?style=for-the-badge&logo=git&logoColor=F05133)
