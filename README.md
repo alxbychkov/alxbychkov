@@ -1,7 +1,7 @@
 #### Hi there, my name is Alexander 👋
 #### I'am developer, looking to collaborate on open source project.
 ### Languages and Tools:
-![Vue](https://img.shields.io/badge/-VUE-090909?style=for-the-badge&logo=vue&logoColor=F16529)
+![Vue](https://img.shields.io/badge/-VUE-090909?style=for-the-badge&logo=Vue.js&logoColor=F16529)
 ![Html](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5&logoColor=F16529)
 ![Css](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3&logoColor=2965F1)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
