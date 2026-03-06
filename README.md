@@ -1,4 +1,4 @@
-# Alexander Bychkov (alxbychkov)
+# Aleksandr Bychkov (alxbychkov)
 
 Welcome to my GitHub profile! I'm a passionate developer specializing in modern web technologies and decentralized applications. I enjoy building user-friendly, scalable, and innovative solutions with JavaScript, Vue, and more.
 
